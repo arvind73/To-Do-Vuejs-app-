@@ -1,4 +1,19 @@
-# To-Do-Vuejs-app-
-This is a To-Do app built using Vuejs, vuetify and vuefire for storing our data
+# vue-fire-todo
 
-Be sure to use a vuefire by making a firebase account and add all the data to be stored.
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
